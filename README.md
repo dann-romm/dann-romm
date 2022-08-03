@@ -13,7 +13,7 @@ I really love coding, solving algorithmic problems and learning
 
 ![Bash](https://img.shields.io/badge/Data_Structures_And_Algorithms-006464?style=for-the-badge&logoColor=white)
 
-I like to practice on Leetcode, go check my [profile](https://leetcode.com/doalbaco/)!
+I like to practice on [Leetcode](https://leetcode.com/doalbaco/), go check my profile!
 
 ![dann-romm](https://github-readme-stats.vercel.app/api?username=dann-romm&show_icons=true)
 
